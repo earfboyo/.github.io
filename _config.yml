@@ -1,0 +1,8 @@
+title: Your Website's Title
+description: A brief description of your website.
+theme: minima
+
+header_pages:
+  - about.md
+  - portfolio.md
+  - contact.md
